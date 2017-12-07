@@ -1,0 +1,17 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping pattern="ws_statspub" type="PHP" />
+      <mapping ext="psp" type="PHP" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="tx_bdfwebserviceoutput_cron_convert.php" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="caddyfile" type="PLAIN_TEXT" />
+      <mapping pattern="rabbitmq_update_on_kwo_consumer" type="PLAIN_TEXT" />
+      <mapping ext="hml" type="PLAIN_TEXT" />
+      <mapping ext="xlf" type="XML" />
+      <mapping pattern="*yml.dist" type="YAML" />
+    </extensionMap>
+  </component>
+</application>
