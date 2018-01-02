@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ba9256a5-cfde-4323-8f67-0f9554720844" name="Oxalide - dev Florian" url="http://bdf.lxc">
+        <fileTransfer host="pp-www.balinea.net" port="21" rootFolder="/florian-www.balinea.net/data/current" password="dffddfdfdfc3dfe2df9adffcdfeddf92" username="florian" />
+      </webServer>
+    </option>
+  </component>
+</application>
