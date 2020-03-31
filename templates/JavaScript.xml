@@ -4,4 +4,9 @@
     <variable name="VAR" expression="jsSuggestVariableName()" defaultValue="&quot;o&quot;" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="forof" value="for (const element of array) {&#10;  console.log(element);&#10;}" description="For...of" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
