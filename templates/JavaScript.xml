@@ -9,4 +9,14 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="forin" value="for (const property in object) {&#10;  console.log(object[property]);&#10;}" description="For ... in" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="forobj" value="for (const [key, value] of Object.entries(obj)) {&#10;    console.log(key, value);&#10;}" description="For ... of an object" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
