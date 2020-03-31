@@ -19,4 +19,9 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="foreachobj" value="Object.entries(obj).forEach(&#10;    ([key, value]) =&gt; console.log(key, value)&#10;);" description="ForEach ..." toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
